@@ -1,4 +1,4 @@
-# HiMCM 2020 Problem B
+# HiMCM 2020 Problem B Finalist Paper (Top 7%)
 
 If you would like to access the notebook and test out our solution, click here: https://colab.research.google.com/drive/1thAS-eMqCOOi0IfcC-jmwDxht6eNs7xU
 
